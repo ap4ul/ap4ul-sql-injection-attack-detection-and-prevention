@@ -1,0 +1,47 @@
+{
+    "CVE-2023-27649": {
+        "Base Score": 7.5,
+        "Exploitability Score": 3.9,
+        "Impact Score": 3.6
+    },
+    "CVE-2023-2760": {
+        "Base Score": 7.6,
+        "Exploitability Score": 2.8,
+        "Impact Score": 4.7
+    },
+    "CVE-2023-26033": {
+        "Base Score": 9.1,
+        "Exploitability Score": 3.9,
+        "Impact Score": 5.2
+    },
+    "CVE-2022-41271": {
+        "Base Score": 9.4,
+        "Exploitability Score": 3.9,
+        "Impact Score": 5.5
+    },
+    "CVE-2021-36299": {
+        "Base Score": 8.1,
+        "Exploitability Score": 2.8,
+        "Impact Score": 5.2
+    },
+    "CVE-2021-3119": {
+        "Base Score": 7.5,
+        "Exploitability Score": 3.9,
+        "Impact Score": 3.6
+    },
+    "CVE-2020-8158": {
+        "Base Score": 9.8,
+        "Exploitability Score": 3.9,
+        "Impact Score": 5.9
+    },
+    "CVE-2020-27207": {
+        "Base Score": 7.5,
+        "Exploitability Score": 3.9,
+        "Impact Score": 3.6
+    },
+    "CVE-2020-10184": {
+        "Base Score": 7.5,
+        "Exploitability Score": 3.9,
+        "Impact Score": 3.6
+    }
+}

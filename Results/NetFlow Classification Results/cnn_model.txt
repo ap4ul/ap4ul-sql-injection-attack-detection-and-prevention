@@ -1,0 +1,30 @@
+Overall Accuracy: 94.88517897499453
+Overall Precision: 90.81166293533987
+Overall Recall: 99.883434599525
+Overall F1 Score: 95.13176702424401
+For Class 1 (Malicious):
+Accuracy: 94.88517897499453
+Precision: 90.81166293533987
+Recall: 99.883434599525
+F1 Score: 95.13176702424401
+FPR (Malicious): 0.10119785815375187
+For Class 0 (Benign):
+Accuracy: 94.88517897499453
+Precision: 99.87030462201903
+Recall: 89.8802141846248
+F1 Score: 94.61227749535408
+FPR (Benign): 0.0011656540047500401
+Classification Report: 
+              precision    recall  f1-score   support
+
+           0       1.00      0.90      0.95     68539
+           1       0.91      1.00      0.95     68631
+
+    accuracy                           0.95    137170
+   macro avg       0.95      0.95      0.95    137170
+weighted avg       0.95      0.95      0.95    137170
+
+
+Confusion Matrix:
+[[61603  6936]
+ [   80 68551]]

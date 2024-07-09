@@ -1,0 +1,60 @@
+Accuracy: 99.57405684014604
+Precision: 99.56196165587308
+Recall: 99.57405684014604
+F1 Score: 99.51492400057053
+Class: 0
+Accuracy : 99.9176748514568
+Precision : 96.34146341451665
+Recall : 79.7979797979798
+F1 Score : 87.29281767955803
+False Positive Rate : 0.010776249146880239
+Class: 1
+Accuracy : 99.6671200515427
+Precision : 98.7209123131438
+Recall : 99.84413965087282
+F1 Score : 99.2793490895002
+False Positive Rate : 0.38565189108818704
+Class: 2
+Accuracy : 99.72438972009449
+Precision : 94.73684210509695
+Recall : 42.1875
+F1 Score : 58.37837837837838
+False Positive Rate : 0.010787486515641818
+Class: 3
+Accuracy : 99.98926193714654
+Precision : 99.98384230085475
+Recall : 99.96768982229402
+F1 Score : 99.97576540916069
+False Positive Rate : 0.004598123965422087
+Class: 4
+Accuracy : 99.97136516572411
+Precision : 99.99999999923077
+Recall : 61.904761904761905
+F1 Score : 76.47058823529413
+False Positive Rate : 0.0
+Class: 5
+Accuracy : 99.87830195432744
+Precision : 99.80804871591144
+Recall : 99.96685229382126
+F1 Score : 99.88738738738738
+False Positive Rate : 0.22561070483895887
+Classification Report:               precision    recall  f1-score   support
+
+           0       0.96      0.80      0.87        99
+           1       0.99      1.00      0.99      6416
+           2       0.95      0.42      0.58       128
+           3       1.00      1.00      1.00      6190
+           4       1.00      0.62      0.76        21
+           5       1.00      1.00      1.00     15084
+
+    accuracy                           1.00     27938
+   macro avg       0.98      0.81      0.87     27938
+weighted avg       1.00      1.00      1.00     27938
+
+Overall FPR:0.0008518863197079241
+[[   79     7     0     1     0    12]
+ [    0  6406     3     0     0     7]
+ [    0    74    54     0     0     0]
+ [    0     0     0  6188     0     2]
+ [    0     0     0     0    13     8]
+ [    3     2     0     0     0 15079]]

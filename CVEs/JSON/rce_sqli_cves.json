@@ -1,0 +1,452 @@
+{
+    "CVE-2023-34362": {
+        "Base Score": 9.8,
+        "Exploitability Score": 3.9,
+        "Impact Score": 5.9
+    },
+    "CVE-2023-32530": {
+        "Base Score": 8.8,
+        "Exploitability Score": 2.8,
+        "Impact Score": 5.9
+    },
+    "CVE-2023-32529": {
+        "Base Score": 8.8,
+        "Exploitability Score": 2.8,
+        "Impact Score": 5.9
+    },
+    "CVE-2023-31702": {
+        "Base Score": 7.2,
+        "Exploitability Score": 1.2,
+        "Impact Score": 5.9
+    },
+    "CVE-2023-30625": {
+        "Base Score": 8.8,
+        "Exploitability Score": 2.8,
+        "Impact Score": 5.9
+    },
+    "CVE-2023-30246": {
+        "Base Score": 9.8,
+        "Exploitability Score": 3.9,
+        "Impact Score": 5.9
+    },
+    "CVE-2023-30245": {
+        "Base Score": 9.8,
+        "Exploitability Score": 3.9,
+        "Impact Score": 5.9
+    },
+    "CVE-2023-29809": {
+        "Base Score": 9.8,
+        "Exploitability Score": 3.9,
+        "Impact Score": 5.9
+    },
+    "CVE-2023-27709": {
+        "Base Score": 7.2,
+        "Exploitability Score": 1.2,
+        "Impact Score": 5.9
+    },
+    "CVE-2023-27707": {
+        "Base Score": 7.2,
+        "Exploitability Score": 1.2,
+        "Impact Score": 5.9
+    },
+    "CVE-2023-26922": {
+        "Base Score": 9.8,
+        "Exploitability Score": 3.9,
+        "Impact Score": 5.9
+    },
+    "CVE-2023-26876": {
+        "Base Score": 8.8,
+        "Exploitability Score": 2.8,
+        "Impact Score": 5.9
+    },
+    "CVE-2023-26750": {
+        "Base Score": 9.8,
+        "Exploitability Score": 3.9,
+        "Impact Score": 5.9
+    },
+    "CVE-2023-26034": {
+        "Base Score": 8.8,
+        "Exploitability Score": 2.8,
+        "Impact Score": 5.9
+    },
+    "CVE-2022-46764": {
+        "Base Score": 9.8,
+        "Exploitability Score": 3.9,
+        "Impact Score": 5.9
+    },
+    "CVE-2022-43775": {
+        "Base Score": 9.8,
+        "Exploitability Score": 3.9,
+        "Impact Score": 5.9
+    },
+    "CVE-2022-43774": {
+        "Base Score": 9.8,
+        "Exploitability Score": 3.9,
+        "Impact Score": 5.9
+    },
+    "CVE-2022-39179": {
+        "Base Score": 7.2,
+        "Exploitability Score": 1.2,
+        "Impact Score": 5.9
+    },
+    "CVE-2022-36961": {
+        "Base Score": 8.8,
+        "Exploitability Score": 2.8,
+        "Impact Score": 5.9
+    },
+    "CVE-2022-29807": {
+        "Base Score": 9.8,
+        "Exploitability Score": 3.9,
+        "Impact Score": 5.9
+    },
+    "CVE-2022-24688": {
+        "Base Score": 8.8,
+        "Exploitability Score": 2.8,
+        "Impact Score": 5.9
+    },
+    "CVE-2022-22794": {
+        "Base Score": 9.8,
+        "Exploitability Score": 3.9,
+        "Impact Score": 5.9
+    },
+    "CVE-2022-21647": {
+        "Base Score": 9.8,
+        "Exploitability Score": 3.9,
+        "Impact Score": 5.9
+    },
+    "CVE-2022-1531": {
+        "Base Score": 9.8,
+        "Exploitability Score": 3.9,
+        "Impact Score": 5.9
+    },
+    "CVE-2021-45821": {
+        "Base Score": 8.8,
+        "Exploitability Score": 2.8,
+        "Impact Score": 5.9
+    },
+    "CVE-2021-44593": {
+        "Base Score": 8.1,
+        "Exploitability Score": 2.2,
+        "Impact Score": 5.9
+    },
+    "CVE-2021-43630": {
+        "Base Score": 8.8,
+        "Exploitability Score": 2.8,
+        "Impact Score": 5.9
+    },
+    "CVE-2021-43035": {
+        "Base Score": 9.8,
+        "Exploitability Score": 3.9,
+        "Impact Score": 5.9
+    },
+    "CVE-2021-42670": {
+        "Base Score": 9.8,
+        "Exploitability Score": 3.9,
+        "Impact Score": 5.9
+    },
+    "CVE-2021-42668": {
+        "Base Score": 9.8,
+        "Exploitability Score": 3.9,
+        "Impact Score": 5.9
+    },
+    "CVE-2021-42667": {
+        "Base Score": 9.8,
+        "Exploitability Score": 3.9,
+        "Impact Score": 5.9
+    },
+    "CVE-2021-42666": {
+        "Base Score": 8.8,
+        "Exploitability Score": 2.8,
+        "Impact Score": 5.9
+    },
+    "CVE-2021-42258": {
+        "Base Score": 9.8,
+        "Exploitability Score": 3.9,
+        "Impact Score": 5.9
+    },
+    "CVE-2021-41765": {
+        "Base Score": 9.8,
+        "Exploitability Score": 3.9,
+        "Impact Score": 5.9
+    },
+    "CVE-2021-41662": {
+        "Base Score": 9.8,
+        "Exploitability Score": 3.9,
+        "Impact Score": 5.9
+    },
+    "CVE-2021-4088": {
+        "Base Score": 7.2,
+        "Exploitability Score": 1.2,
+        "Impact Score": 5.9
+    },
+    "CVE-2021-40843": {
+        "Base Score": 7.3,
+        "Exploitability Score": 1.3,
+        "Impact Score": 5.9
+    },
+    "CVE-2021-38393": {
+        "Base Score": 9.8,
+        "Exploitability Score": 3.9,
+        "Impact Score": 5.9
+    },
+    "CVE-2021-38391": {
+        "Base Score": 9.8,
+        "Exploitability Score": 3.9,
+        "Impact Score": 5.9
+    },
+    "CVE-2021-38390": {
+        "Base Score": 9.8,
+        "Exploitability Score": 3.9,
+        "Impact Score": 5.9
+    },
+    "CVE-2021-37599": {
+        "Base Score": 9.8,
+        "Exploitability Score": 3.9,
+        "Impact Score": 5.9
+    },
+    "CVE-2021-37358": {
+        "Base Score": 9.8,
+        "Exploitability Score": 3.9,
+        "Impact Score": 5.9
+    },
+    "CVE-2021-33701": {
+        "Base Score": 9.1,
+        "Exploitability Score": 2.3,
+        "Impact Score": 6.0
+    },
+    "CVE-2021-32983": {
+        "Base Score": 9.8,
+        "Exploitability Score": 3.9,
+        "Impact Score": 5.9
+    },
+    "CVE-2021-3239": {
+        "Base Score": 9.8,
+        "Exploitability Score": 3.9,
+        "Impact Score": 5.9
+    },
+    "CVE-2021-30177": {
+        "Base Score": 9.8,
+        "Exploitability Score": 3.9,
+        "Impact Score": 5.9
+    },
+    "CVE-2021-27644": {
+        "Base Score": 8.8,
+        "Exploitability Score": 2.8,
+        "Impact Score": 5.9
+    },
+    "CVE-2021-26822": {
+        "Base Score": 9.8,
+        "Exploitability Score": 3.9,
+        "Impact Score": 5.9
+    },
+    "CVE-2021-26644": {
+        "Base Score": 9.8,
+        "Exploitability Score": 3.9,
+        "Impact Score": 5.9
+    },
+    "CVE-2021-26636": {
+        "Base Score": 9.6,
+        "Exploitability Score": 2.8,
+        "Impact Score": 6.0
+    },
+    "CVE-2020-9006": {
+        "Base Score": 9.8,
+        "Exploitability Score": 3.9,
+        "Impact Score": 5.9
+    },
+    "CVE-2020-36077": {
+        "Base Score": 8.8,
+        "Exploitability Score": 2.8,
+        "Impact Score": 5.9
+    },
+    "CVE-2020-36074": {
+        "Base Score": 8.8,
+        "Exploitability Score": 2.8,
+        "Impact Score": 5.9
+    },
+    "CVE-2020-36073": {
+        "Base Score": 8.8,
+        "Exploitability Score": 2.8,
+        "Impact Score": 5.9
+    },
+    "CVE-2020-36072": {
+        "Base Score": 8.8,
+        "Exploitability Score": 2.8,
+        "Impact Score": 5.9
+    },
+    "CVE-2020-36071": {
+        "Base Score": 8.8,
+        "Exploitability Score": 2.8,
+        "Impact Score": 5.9
+    },
+    "CVE-2020-35701": {
+        "Base Score": 8.8,
+        "Exploitability Score": 2.8,
+        "Impact Score": 5.9
+    },
+    "CVE-2020-29474": {
+        "Base Score": 9.8,
+        "Exploitability Score": 3.9,
+        "Impact Score": 5.9
+    },
+    "CVE-2020-29472": {
+        "Base Score": 9.8,
+        "Exploitability Score": 3.9,
+        "Impact Score": 5.9
+    },
+    "CVE-2020-29143": {
+        "Base Score": 7.2,
+        "Exploitability Score": 1.2,
+        "Impact Score": 5.9
+    },
+    "CVE-2020-29140": {
+        "Base Score": 7.2,
+        "Exploitability Score": 1.2,
+        "Impact Score": 5.9
+    },
+    "CVE-2020-28070": {
+        "Base Score": 9.8,
+        "Exploitability Score": 3.9,
+        "Impact Score": 5.9
+    },
+    "CVE-2020-25006": {
+        "Base Score": 9.8,
+        "Exploitability Score": 3.9,
+        "Impact Score": 5.9
+    },
+    "CVE-2020-25005": {
+        "Base Score": 9.8,
+        "Exploitability Score": 3.9,
+        "Impact Score": 5.9
+    },
+    "CVE-2020-25004": {
+        "Base Score": 9.8,
+        "Exploitability Score": 3.9,
+        "Impact Score": 5.9
+    },
+    "CVE-2020-23833": {
+        "Base Score": 9.8,
+        "Exploitability Score": 3.9,
+        "Impact Score": 5.9
+    },
+    "CVE-2020-21400": {
+        "Base Score": 7.2,
+        "Exploitability Score": 1.2,
+        "Impact Score": 5.9
+    },
+    "CVE-2020-20915": {
+        "Base Score": 9.8,
+        "Exploitability Score": 3.9,
+        "Impact Score": 5.9
+    },
+    "CVE-2020-20914": {
+        "Base Score": 9.8,
+        "Exploitability Score": 3.9,
+        "Impact Score": 5.9
+    },
+    "CVE-2020-20913": {
+        "Base Score": 9.8,
+        "Exploitability Score": 3.9,
+        "Impact Score": 5.9
+    },
+    "CVE-2020-20491": {
+        "Base Score": 7.2,
+        "Exploitability Score": 1.2,
+        "Impact Score": 5.9
+    },
+    "CVE-2020-20413": {
+        "Base Score": 9.8,
+        "Exploitability Score": 3.9,
+        "Impact Score": 5.9
+    },
+    "CVE-2020-19114": {
+        "Base Score": 9.8,
+        "Exploitability Score": 3.9,
+        "Impact Score": 5.9
+    },
+    "CVE-2020-19112": {
+        "Base Score": 9.8,
+        "Exploitability Score": 3.9,
+        "Impact Score": 5.9
+    },
+    "CVE-2020-19110": {
+        "Base Score": 9.8,
+        "Exploitability Score": 3.9,
+        "Impact Score": 5.9
+    },
+    "CVE-2020-19109": {
+        "Base Score": 9.8,
+        "Exploitability Score": 3.9,
+        "Impact Score": 5.9
+    },
+    "CVE-2020-19108": {
+        "Base Score": 9.8,
+        "Exploitability Score": 3.9,
+        "Impact Score": 5.9
+    },
+    "CVE-2020-19107": {
+        "Base Score": 9.8,
+        "Exploitability Score": 3.9,
+        "Impact Score": 5.9
+    },
+    "CVE-2020-18746": {
+        "Base Score": 7.2,
+        "Exploitability Score": 1.2,
+        "Impact Score": 5.9
+    },
+    "CVE-2020-18717": {
+        "Base Score": 9.8,
+        "Exploitability Score": 3.9,
+        "Impact Score": 5.9
+    },
+    "CVE-2020-18544": {
+        "Base Score": 9.8,
+        "Exploitability Score": 3.9,
+        "Impact Score": 5.9
+    },
+    "CVE-2020-18215": {
+        "Base Score": 8.8,
+        "Exploitability Score": 2.8,
+        "Impact Score": 5.9
+    },
+    "CVE-2020-18020": {
+        "Base Score": 9.8,
+        "Exploitability Score": 3.9,
+        "Impact Score": 5.9
+    },
+    "CVE-2020-15849": {
+        "Base Score": 7.2,
+        "Exploitability Score": 1.2,
+        "Impact Score": 5.9
+    },
+    "CVE-2020-15394": {
+        "Base Score": 9.8,
+        "Exploitability Score": 3.9,
+        "Impact Score": 5.9
+    },
+    "CVE-2020-14972": {
+        "Base Score": 9.8,
+        "Exploitability Score": 3.9,
+        "Impact Score": 5.9
+    },
+    "CVE-2020-14497": {
+        "Base Score": 9.8,
+        "Exploitability Score": 3.9,
+        "Impact Score": 5.9
+    },
+    "CVE-2020-13877": {
+        "Base Score": 9.8,
+        "Exploitability Score": 3.9,
+        "Impact Score": 5.9
+    },
+    "CVE-2020-13873": {
+        "Base Score": 9.8,
+        "Exploitability Score": 3.9,
+        "Impact Score": 5.9
+    },
+    "CVE-2020-12271": {
+        "Base Score": 9.8,
+        "Exploitability Score": 3.9,
+        "Impact Score": 5.9
+    }
+}

